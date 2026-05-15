@@ -1,7 +1,4 @@
-# R-For-Bioinformatics-Transcriptomic-Data-Analysis
-🧬R For Bioinformatics &amp; Transcriptomic Data Analysis. Official repository for class scripts, datasets, and publication-ready workflows. Focused on computational oncology and biomarker discovery. Hosted at BME, MIST.
-
-**R For Bioinformatics & Transcriptomic Data Analysis**
+**🧬R For Bioinformatics & Transcriptomic Data Analysis**
 **Department of Biomedical Engineering, MIST**
 Welcome to the official repository for the course. This hub contains all the resources required to move from basic R programming to advanced transcriptomic data processing and discovery.
 
