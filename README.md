@@ -6,6 +6,7 @@
 Welcome to the official repository for the course. This hub contains all the resources required to move from basic R programming to advanced transcriptomic data processing and discovery.
 
 **📂 Repository Structure**
+
 **/scripts:** Weekly live-coding scripts (Class 1–10).
 
 **/data:** Curated oncology datasets, including Microarray and RNA-Seq metadata.
