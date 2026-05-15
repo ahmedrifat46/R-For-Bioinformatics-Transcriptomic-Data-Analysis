@@ -28,14 +28,7 @@ Goal: Using GSEA and KEGG/GO to understand the biological pathways behind gene s
 **Module 4:** Machine Learning & Biomarker Discovery
 Goal: Implementing Boruta and Random Forest for diagnostic and prognostic signature development.
 
-**🛠️ Quick Setup**
-To ensure compatibility with our workflows, please run this in your R console:
-
-R
-if (!require("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-BiocManager::install(version = "3.18")
-**👨‍🏫 Instructor**
+**👨‍🏫 Instructors**
 1. Sanjana Chowdhury Arpa
    Research Assistant,
    Dept. of Biomedical Engineering, MIST.
