@@ -7,7 +7,7 @@ Welcome to the official repository for the course. This hub contains all the res
 
 **📂 Repository Structure**
 
-**/scripts:** Weekly live-coding scripts (Class 1–10).
+**/scripts:** Weekly live-coding scripts.
 
 **/data:** Curated oncology datasets, including Microarray and RNA-Seq metadata.
 
