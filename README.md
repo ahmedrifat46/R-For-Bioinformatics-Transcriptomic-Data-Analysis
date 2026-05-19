@@ -13,6 +13,7 @@ Welcome to the official repository for the course. This hub contains all the res
 **/projects:** Templates for the capstone biomarker discovery project.
 
 **🚀 Course Roadmap**
+
 **Module 1:** The Foundations of Computational Oncology
 Goal: Mastering the "Grammar of R," data structures, and ggplot2 for publication-ready figures.
 
