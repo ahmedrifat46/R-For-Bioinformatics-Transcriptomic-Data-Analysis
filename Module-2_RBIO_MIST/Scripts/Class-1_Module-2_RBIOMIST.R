@@ -176,8 +176,3 @@ processed_data <- filtered_data
 # Save the workspace 
 
 save.image("DEG_Analysis.RData")
-
-#### Save Processed Data for Next Class  ####
-# Save processed data and metadata
-save(processed_data, phenotype_data, feature_data, raw_data,
-     file = "GSE79973.RData")
