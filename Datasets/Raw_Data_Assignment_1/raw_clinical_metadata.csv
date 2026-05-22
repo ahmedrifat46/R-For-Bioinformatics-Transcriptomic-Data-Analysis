@@ -1,0 +1,13 @@
+Patient_ID,Age,Condition
+PT-01,34,Normal
+PT-02,45,Normal
+PT-03,fifty-two,Normal
+PT-04,61,Normal
+PT-05,28,Normal
+PT-06,41,Normal
+PT-07,sixty-seven,Tumor
+PT-08,50,Tumor
+PT-09,38,Tumor
+PT-10,55,Tumor
+PT-11,47,Tumor
+PT-12,63,
